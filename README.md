@@ -12,12 +12,12 @@ Here you can find my training projects:
 
 ### Statistics
 
-<p><a href="https://github.com/arturssmirnovs/github-profile-views-counter">
+<p><a href="https://github.com/arturssmirnovs/github-profile-views-counter" target="_blank">
   <img src="https://gpvc.arturio.dev/bzaitsev">
 </a></p>
-<p><a href="https://github.com/anuraghazra/github-readme-stats">
+<p><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bzaitsev&langs_count=6&layout=compact&theme=react">
 </a></p>
-<p><a href="https://github.com/anuraghazra/github-readme-stats">
+<p><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api?username=bzaitsev&theme=react&show_icons=true">
 </a></p>
