@@ -12,8 +12,8 @@ Here you can find my training projects:
 
 ### Statistics
 
-<p><a href="https://github.com/arturssmirnovs/github-profile-views-counter">
-  <img src="https://gpvc.arturio.dev/bzaitsev">
+<p><a href="https://github.com/silentsoft/hits">
+  <img src="https://hits.sh/github.com/bzaitsev/hits.svg?view=today-total&label=Profile%20views&logo=github">
 </a></p>
 <p><a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bzaitsev&langs_count=6&layout=compact&theme=react">
