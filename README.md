@@ -1,7 +1,7 @@
-### Profile bzaitsev
-I use this profile for training purposes, to practice in different technologies.
+### Hi! I'm Front-end Developer
+I use this profile to practice in different technologies.
 
-Here you can find my training projects:
+Here you can find my pet apps:
 - [Todo list on React] (contains PWA, service worker, indexedDB, unique names generator)
 - [Weather forecast on Angular] (contains charts)
 - [Star Wars planets on Angular]
@@ -17,9 +17,6 @@ Here you can find my training projects:
 </a></p>
 <p><a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bzaitsev&langs_count=6&layout=compact&theme=react">
-</a></p>
-<p><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=bzaitsev&theme=react&show_icons=true">
 </a></p>
 
 [Todo list on React]: <https://github.com/bzaitsev/reactjs-todo-list>
