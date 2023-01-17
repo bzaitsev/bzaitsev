@@ -1,4 +1,4 @@
-### Hi! I'm Front-end Developer
+### Hi, I'm Front-end Developer
 I use this profile to practice in different technologies.
 
 Here you can find my pet apps:
@@ -16,7 +16,7 @@ Here you can find my pet apps:
   <img src="https://hits.sh/github.com/bzaitsev/hits.svg?view=today-total&label=Profile%20views&logo=github">
 </a></p>
 <p><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bzaitsev&langs_count=6&layout=compact&theme=react">
+  <img src="https://github-readme-stats-chi-ashen-29.vercel.app/api/top-langs?username=bzaitsev&langs_count=6&layout=compact&theme=react">
 </a></p>
 
 [Todo list on React]: <https://github.com/bzaitsev/reactjs-todo-list>
